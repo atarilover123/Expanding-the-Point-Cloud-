@@ -6,5 +6,5 @@ Step 3 - select 3d points to sonify using the rslider or randomised slider, move
 
 Step 4 - experiment. Try different 3d objects and sounds, different grain densities, pitches and methods of playback 
 
-
+Expanding the Point Cloud is released user a Creative Commons license which makes it possible to re-use this content for non-commercial purposes if it is credited. 
 
